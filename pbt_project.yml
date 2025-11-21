@@ -1,0 +1,66 @@
+name: damian.bergnaum
+description: Extended
+version: 0.0.1
+author: rujjb6p8.z607zakr@5qz2u2lb.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: damianbergnaum
+  parentArtefactID: rujjb6p8z607zakr5qz2u2lbcomteam
+  buildSystem: maven
+  author: null
+  createdAt: '2025-11-21 23:01:47'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-11-21 23:01:47'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-11-21T23:01:47.448278Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '1805315462'
+  createdAt: '2025-11-21T23:01:47.448278Z'
+  type: plibMaven
+projectDependencies:
+  '397':
+    projectUID: 397
+    projectName: lynn.haag
+    repositoryPath: gitUri=http://gitserver:3000/dev_uHSrX5xJ_team_698/dev_uHSrX5xJ_project_397.git&subPath=
+    version: lynn.haag/0.5.682
+    isDefault: false
+    author: null
+    createdAt: '2025-11-21 23:01:42'
+  '404':
+    projectUID: 404
+    projectName: pedro.langworth
+    repositoryPath: gitUri=http://gitserver:3000/dev_uHSrX5xJ_team_698/dev_5L4X0t4W_project_404.git&subPath=
+    version: pedro.langworth/6.6.4.49
+    isDefault: false
+    author: null
+    createdAt: '2025-11-21 23:01:47'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
